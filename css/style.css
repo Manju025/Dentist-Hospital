@@ -1355,7 +1355,7 @@ a:hover {
     }
 }
 
-@media (max-width: 426px) {
+@media (max-width: 749px) and (min-width: 300px) {
     .hero {
         border: 2px solid #F8943F;
     }
